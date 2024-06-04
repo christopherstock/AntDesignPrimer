@@ -55,7 +55,7 @@
         "typescript": "^3.4.5",
         "webpack": "^4.30.0",
         "webpack-cli": "^3.3.1",
-        "webpack-dev-server": "^3.3.1"
+        "webpack-dev-server": "^5.0.4"
     },
     "dependencies": {
         "antd": "^3.1.6",
