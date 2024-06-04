@@ -58,7 +58,7 @@
         "webpack-dev-server": "^3.3.1"
     },
     "dependencies": {
-        "antd": "^3.1.6",
+        "antd": "^5.18.0",
         "moment": "^2.20.1",
         "rc-scroll-anim": "^2.5.9",
         "rc-tween-one": "^2.5.0",
